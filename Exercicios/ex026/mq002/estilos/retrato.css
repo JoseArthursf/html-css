@@ -2,7 +2,8 @@
 
 /* Config em pé (portrait) */
 
-*{
-    margin: 0px;
-    padding: 0px;
+body{
+    background: url(../imagens/cev-portrait.jpg) no-repeat;
+
+    background-position: center bottom;
 }

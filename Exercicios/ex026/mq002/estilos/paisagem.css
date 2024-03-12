@@ -2,7 +2,7 @@
 
 /* Config deitado (landscape)*/
 
-*{
-    margin: 0px;
-    padding: 0px;
+body{
+    background: url(../imagens/cev-landscape.jpg) no-repeat;
+    background-position: left bottom;
 }
